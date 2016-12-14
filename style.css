@@ -1,0 +1,118 @@
+.navbar-default{
+
+  background-color: #232F3E;
+  color: #ccc;
+}
+
+#brand{
+
+  background: url('sprite.png') no-repeat -10px -51px;
+	width: 96px;
+	height: 29px;
+  padding-right: 150px;
+
+}
+
+.ico{
+
+    float: right;
+    margin-right: 6px;
+
+    position: relative;
+    z-index: 2;
+    color: red;
+
+}
+
+.senav{
+  height:33px;
+  margin-top:-10px;
+
+}
+
+.mild{
+  color: grey;
+}
+.jumbotron p{
+  font-size: 13px;
+}
+.jump{
+  font-size: 24px;
+  font-weight: bold;
+}
+.jumbotron{
+  background-color: white;
+  padding-bottom: 0;
+  padding-left: 20px;
+}
+.cb{
+  background-color: #F5F5F5;
+}
+.firstbox{
+  border-left: 1px solid #EEE;
+}
+.firstbox,.secondbox,.thirdbox{
+  border-right: 1px solid #EEE;
+  border-bottom: 1px solid #EEE;
+
+}
+.results{
+  border-bottom: 1px solid #EEE;
+}
+.content{
+  width: 50%;
+    margin: 0 auto;
+}
+.dd{
+  background-color: #C45500;
+  padding:5px;
+  color: white;
+  margin-top: 5px;
+}
+.seppa{
+  height: 33px;
+  font-size: 12px;
+  border-bottom: 1px solid #EEE;
+  margin-top:-19px;
+  background-color: #fafafa;
+  padding-top: 5px;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #ccc;
+  }
+
+  .navbar-default .navbar-nav > li> a{
+    color: #ccc;
+  }
+  .btn{
+    background-color: #F3A847;
+    color: black;
+  }
+
+  .ig input[type=text]{
+    width:600px !important;
+  }
+
+.navbar-form{
+  border:0px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .ig input[type=text]{
+    width:100% !important;
+  }
+}
+
+.img-responsive{
+  margin: auto;
+}
+
+.shop a{
+  padding-bottom: 0px !important;
+padding-top: 2px !important;
+padding-left: 0px !important;
+line-height: 14px !important;
+}
+
+
